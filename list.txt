@@ -1,0 +1,8 @@
+Free 1
+	Shell with paralelism
+Free 2
+	Translate schedules into iCal and presentation (eg, LaTeX, HTML) formats
+Non-DSL
+	Password Generation
+Non-computer
+	Electronic Circuit Diagrams
