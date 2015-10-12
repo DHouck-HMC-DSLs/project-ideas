@@ -1,7 +1,7 @@
 Free 1
-	Shell with paralelism
+	Shell with parallelism
 Free 2
-	Translate schedules into iCal and presentation (eg, LaTeX, HTML) formats
+	Web crawler and processor
 Non-DSL
 	Password Generation
 Non-computer
